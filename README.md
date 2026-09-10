@@ -1,110 +1,38 @@
-# 👋 Hello Engineering!
+<h1 align="center">👋 Hello Engineering!</h1>
 
-## 🤖 Artificial Intelligence Engineering Student
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" width="100%">
+</p>
 
-🎓 **AI Engineering Student** | 💻 **Programmer** | 🤖 **AI Enthusiast**
+<h3 align="center">🤖 Artificial Intelligence Engineering Student</h3>
 
----
-
-## 🧠 About Me
-
-- 🎓 Student of **Artificial Intelligence Engineering**
-- 🐍 Learning and developing with **Python**
-- 💻 Programming with **C++**
-- 🧩 Interested in **Object-Oriented Programming (OOP)**
-- 🧠 Passionate about **Artificial Intelligence & Machine Learning**
-- 🔬 Exploring **Neural Networks & Deep Learning**
-- 👁️ Interested in **Computer Vision & NLP**
-- 🤖 Interested in **Robotics & Intelligent Systems**
-- ⚡ Interested in **AI Circuits & Computer Architecture**
-- 🐙 Building projects and sharing my learning journey on **GitHub**
-- 📚 Always learning, building, and improving
+<p align="center">
+  <b>C++ • Python • OOP • Machine Learning • Deep Learning • Neural Networks • Computer Vision • Robotics</b>
+</p>
 
 ---
 
-## 💻 Programming Skills
+### 🧠 About Me
 
-- C++
-- Python
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Problem Solving
-- Git & GitHub
-
----
-
-## 🤖 Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing (NLP)
-- Generative AI
-- Intelligent Systems
-- AI Engineering
+- 🎓 AI Engineering Student
+- 💻 Building with **C++ & Python**
+- 🤖 Exploring **AI, Machine Learning & Robotics**
+- ⚡ Interested in **Neural Networks, Computer Vision & AI Circuits**
+- 🧩 Passionate about **OOP & Problem Solving**
+- 📖 **Qur'an Reciter** | Always learning & improving
 
 ---
 
-## ⚡ Engineering Skills
+### 🛠️ Tech Stack
 
-- Computer Architecture
-- Digital Logic
-- AI Circuits
-- Embedded Systems
-- Robotics
-- Automation
-- Sensors & Intelligent Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,tensorflow,pytorch&perline=7" />
+</p>
 
 ---
 
-## 🧰 Tools & Technologies
+### 🚀 Focus
 
-- Python
-- C++
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- TensorFlow / Keras
-- PyTorch
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+**Artificial Intelligence • Machine Learning • Deep Learning • Robotics**
 
----
-
-## 📖 Other Interests
-
-- 📖 **Qur'an Recitation**
-- 🎙️ **Qur'an Reading & Recitation**
-- 🕌 Interested in learning and serving the **Holy Qur'an**
-- 📚 Continuous self-learning
-- 💡 Technology & Innovation
-
----
-
-## 🚀 My Goal
-
-> To become a skilled **AI Engineer** capable of designing and building intelligent systems that solve real-world problems.
-
-### 🔥 Learn • Build • Experiment • Improve
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-### 🤍 Thanks for visiting my profile!
-
-**Artificial Intelligence Engineering Student | AI Enthusiast | Qur'an Reciter | Future AI Engineer 🤖📖**
+> Learn. Build. Improve. 🤖
