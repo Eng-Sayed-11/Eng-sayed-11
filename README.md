@@ -1,58 +1,67 @@
-# 👋 Hello Engineering!
+<div align="center" width="50">
 
-## 🤖 Artificial Intelligence Engineering Student
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Engineering" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="AI Engineering" width="40%"/><br>
 
-🎓 **AI Engineering Student** | 💻 **Programmer** | 🤖 **AI Enthusiast**
+<details>
+<p><strong><summary>⚡ Engineering & AI</summary></strong></p>
 
----
+🤖 Artificial Intelligence • 🧠 Machine Learning • 🦾 Robotics
 
-## 🧠 About Me
+</details>
 
-- 🎓 Student of **Artificial Intelligence Engineering**
-- 🐍 Learning and developing with **Python**
-- 💻 Programming with **C++**
-- 🧩 Interested in **Object-Oriented Programming (OOP)**
-- 🧠 Passionate about **Artificial Intelligence & Machine Learning**
-- 🔬 Exploring **Neural Networks & Deep Learning**
-- 👁️ Interested in **Computer Vision & NLP**
-- 🤖 Interested in **Robotics & Intelligent Systems**
-- ⚡ Exploring **AI Circuits & Computer Architecture**
-- 🐙 Building projects and sharing my work on **GitHub**
-- 📖 **Qur'an Reciter** and passionate about continuous learning
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
----
+</div>
 
-## 🛠️ Skills & Technologies
+<hr></hr>
 
-**Programming**
-`C++` `Python` `OOP` `Data Structures & Algorithms`
+![skills](https://img.shields.io/badge/-%F0%9F%9A%80%20Skills-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-8A2BE2?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A98F?style=flat)
+![Robotics](https://img.shields.io/badge/Robotics-555555?style=flat)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-**Artificial Intelligence**
-`Machine Learning` `Deep Learning` `Neural Networks` `Computer Vision` `NLP`
+```cpp
+// About Eng. Sayed
 
-**Engineering**
-`AI Circuits` `Computer Architecture` `Digital Logic` `Robotics`
+class AIEngineer {
+public:
+    const string name = "Eng. Sayed";
+    const string field = "Artificial Intelligence Engineering";
+    const string university = "New Ismailia National University";
 
-**Tools**
-`Git` `GitHub` `VS Code` `PyTorch` `TensorFlow` `NumPy` `Pandas`
+    vector<string> languages = {
+        "C++",
+        "Python"
+    };
 
----
+    vector<string> interests = {
+        "Object-Oriented Programming",
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Networks",
+        "Computer Vision",
+        "Robotics",
+        "AI Circuits",
+        "Computer Architecture"
+    };
 
-## 🚀 Currently Learning
-
-**AI Engineering • Machine Learning • Deep Learning • Robotics**
-
-> **Learn • Build • Improve • Repeat 🤖**
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Eng. Sayed</b><br>
-  Artificial Intelligence Engineering Student
-</p>
+    vector<string> tools = {
+        "Git",
+        "GitHub",
+        "VS Code",
+        "PyTorch",
+        "TensorFlow",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn"
+    };
+};
