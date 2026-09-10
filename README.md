@@ -3,7 +3,7 @@
   <img src="./InShot_20260910_212713740.jpg" alt="Sayed Mohamed" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Sayed Mohamed 👋</h1>
+<h1 align="center"> I'm Sayed Mohammed👋</h1>
 
 <p align="center">
   <b>AI Engineering Student | Artificial Intelligence & Machine Learning</b>
